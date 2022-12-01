@@ -1,0 +1,105 @@
+2022-11-25 11:51:30.385  INFO 3168 --- [main] com.examples.empapp.EmpAppApplication    : Starting EmpAppApplication v0.0.1-SNAPSHOT using Java 19 on MILE-BL-4717-LAP with PID 3168 (C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist\emp-app-0.0.1-SNAPSHOT.jar started by Miles in C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist)
+2022-11-25 11:51:30.389 DEBUG 3168 --- [main] com.examples.empapp.EmpAppApplication    : Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-11-25 11:51:30.390  INFO 3168 --- [main] com.examples.empapp.EmpAppApplication    : The following 1 profile is active: "dev"
+2022-11-25 11:51:31.500  INFO 3168 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2022-11-25 11:51:31.511  INFO 3168 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-25 11:51:31.512  INFO 3168 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-25 11:51:31.577  INFO 3168 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-25 11:51:31.577  INFO 3168 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1129 ms
+2022-11-25 11:51:31.959  INFO 3168 --- [main] c.examples.empapp.config.EmployeeConfig  : Welcome, Connection created successfully.com.mysql.cj.jdbc.ConnectionImpl@27a5328c
+2022-11-25 11:51:32.377  INFO 3168 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2022-11-25 11:51:32.387  INFO 3168 --- [main] com.examples.empapp.EmpAppApplication    : Started EmpAppApplication in 2.496 seconds (JVM running for 2.919)
+2022-11-25 11:52:18.226  INFO 22008 --- [main] com.examples.empapp.EmpAppApplication    : Starting EmpAppApplication v0.0.1-SNAPSHOT using Java 19 on MILE-BL-4717-LAP with PID 22008 (C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist\emp-app-0.0.1-SNAPSHOT.jar started by Miles in C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist)
+2022-11-25 11:52:18.229 DEBUG 22008 --- [main] com.examples.empapp.EmpAppApplication    : Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-11-25 11:52:18.229  INFO 22008 --- [main] com.examples.empapp.EmpAppApplication    : The following 1 profile is active: "dev"
+2022-11-25 11:52:19.328  INFO 22008 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2022-11-25 11:52:19.339  INFO 22008 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-25 11:52:19.340  INFO 22008 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-25 11:52:19.405  INFO 22008 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-25 11:52:19.406  INFO 22008 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1112 ms
+2022-11-25 11:52:19.743  INFO 22008 --- [main] c.examples.empapp.config.EmployeeConfig  : Welcome, Connection created successfully.com.mysql.cj.jdbc.ConnectionImpl@46e8a539
+2022-11-25 11:52:20.076  INFO 22008 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2022-11-25 11:52:20.087  INFO 22008 --- [main] com.examples.empapp.EmpAppApplication    : Started EmpAppApplication in 2.339 seconds (JVM running for 2.748)
+2022-11-25 11:54:11.118  INFO 17836 --- [main] com.examples.empapp.EmpAppApplication    : Starting EmpAppApplication v0.0.1-SNAPSHOT using Java 19 on MILE-BL-4717-LAP with PID 17836 (C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist\emp-app-0.0.1-SNAPSHOT.jar started by Miles in C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist)
+2022-11-25 11:54:11.121 DEBUG 17836 --- [main] com.examples.empapp.EmpAppApplication    : Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-11-25 11:54:11.122  INFO 17836 --- [main] com.examples.empapp.EmpAppApplication    : The following 1 profile is active: "dev"
+2022-11-25 11:54:12.180  INFO 17836 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-11-25 11:54:12.191  INFO 17836 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-25 11:54:12.192  INFO 17836 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-25 11:54:12.263  INFO 17836 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-25 11:54:12.263  INFO 17836 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1082 ms
+2022-11-25 11:54:12.626  INFO 17836 --- [main] c.examples.empapp.config.EmployeeConfig  : Welcome, Connection created successfully.com.mysql.cj.jdbc.ConnectionImpl@2b62442c
+2022-11-25 11:54:12.949  INFO 17836 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-25 11:54:12.961  INFO 17836 --- [main] com.examples.empapp.EmpAppApplication    : Started EmpAppApplication in 2.35 seconds (JVM running for 2.75)
+2022-11-25 12:00:16.530  INFO 24188 --- [main] com.examples.empapp.EmpAppApplication    : Starting EmpAppApplication v0.0.1-SNAPSHOT using Java 19 on MILE-BL-4717-LAP with PID 24188 (C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist\emp-app-0.0.1-SNAPSHOT.jar started by Miles in C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist)
+2022-11-25 12:00:16.535 DEBUG 24188 --- [main] com.examples.empapp.EmpAppApplication    : Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-11-25 12:00:16.537  INFO 24188 --- [main] com.examples.empapp.EmpAppApplication    : The following 1 profile is active: "dev"
+2022-11-25 12:00:17.657  INFO 24188 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-11-25 12:00:17.667  INFO 24188 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-25 12:00:17.667  INFO 24188 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-25 12:00:17.731  INFO 24188 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-25 12:00:17.733  INFO 24188 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1129 ms
+2022-11-25 12:00:18.073  INFO 24188 --- [main] c.examples.empapp.config.EmployeeConfig  : Welcome, Connection created successfully.com.mysql.cj.jdbc.ConnectionImpl@66629f63
+2022-11-25 12:00:18.456  INFO 24188 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-25 12:00:18.469  INFO 24188 --- [main] com.examples.empapp.EmpAppApplication    : Started EmpAppApplication in 2.55 seconds (JVM running for 2.973)
+2022-11-25 12:00:23.383  INFO 24188 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-11-25 12:00:23.383  INFO 24188 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-11-25 12:00:23.384  INFO 24188 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2022-11-25 12:06:18.644  INFO 12360 --- [main] com.examples.empapp.EmpAppApplication    : Starting EmpAppApplication v0.0.1-SNAPSHOT using Java 19 on MILE-BL-4717-LAP with PID 12360 (C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist\emp-app-0.0.1-SNAPSHOT.jar started by Miles in C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist)
+2022-11-25 12:06:18.647 DEBUG 12360 --- [main] com.examples.empapp.EmpAppApplication    : Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-11-25 12:06:18.647  INFO 12360 --- [main] com.examples.empapp.EmpAppApplication    : The following 1 profile is active: "dev"
+2022-11-25 12:06:19.660  INFO 12360 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2022-11-25 12:06:19.671  INFO 12360 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-25 12:06:19.671  INFO 12360 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-25 12:06:19.726  INFO 12360 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-25 12:06:19.726  INFO 12360 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1023 ms
+2022-11-25 12:06:20.062  INFO 12360 --- [main] c.examples.empapp.config.EmployeeConfig  : Welcome, Connection created successfully.com.mysql.cj.jdbc.ConnectionImpl@5fd62371
+2022-11-25 12:06:20.398  INFO 12360 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2022-11-25 12:06:20.407  INFO 12360 --- [main] com.examples.empapp.EmpAppApplication    : Started EmpAppApplication in 2.248 seconds (JVM running for 2.685)
+2022-11-25 12:06:55.566  INFO 5016 --- [main] com.examples.empapp.EmpAppApplication    : Starting EmpAppApplication v0.0.1-SNAPSHOT using Java 19 on MILE-BL-4717-LAP with PID 5016 (C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist\emp-app-0.0.1-SNAPSHOT.jar started by Miles in C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist)
+2022-11-25 12:06:55.571 DEBUG 5016 --- [main] com.examples.empapp.EmpAppApplication    : Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-11-25 12:06:55.572  INFO 5016 --- [main] com.examples.empapp.EmpAppApplication    : The following 1 profile is active: "dev"
+2022-11-25 12:06:56.590  INFO 5016 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2022-11-25 12:06:56.601  INFO 5016 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-25 12:06:56.601  INFO 5016 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-25 12:06:56.670  INFO 5016 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-25 12:06:56.671  INFO 5016 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1039 ms
+2022-11-25 12:06:57.037  INFO 5016 --- [main] c.examples.empapp.config.EmployeeConfig  : Welcome, Connection created successfully.com.mysql.cj.jdbc.ConnectionImpl@841e575
+2022-11-25 12:06:57.382  INFO 5016 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2022-11-25 12:06:57.394  INFO 5016 --- [main] com.examples.empapp.EmpAppApplication    : Started EmpAppApplication in 2.317 seconds (JVM running for 2.727)
+2022-11-25 12:08:44.679  INFO 1824 --- [main] com.examples.empapp.EmpAppApplication    : Starting EmpAppApplication v0.0.1-SNAPSHOT using Java 19 on MILE-BL-4717-LAP with PID 1824 (C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist\emp-app-0.0.1-SNAPSHOT.jar started by Miles in C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist)
+2022-11-25 12:08:44.683 DEBUG 1824 --- [main] com.examples.empapp.EmpAppApplication    : Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-11-25 12:08:44.684  INFO 1824 --- [main] com.examples.empapp.EmpAppApplication    : The following 1 profile is active: "dev"
+2022-11-25 12:08:45.760  INFO 1824 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2022-11-25 12:08:45.772  INFO 1824 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-25 12:08:45.772  INFO 1824 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-25 12:08:45.830  INFO 1824 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-25 12:08:45.830  INFO 1824 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1090 ms
+2022-11-25 12:08:46.156  INFO 1824 --- [main] c.examples.empapp.config.EmployeeConfig  : Welcome, Connection created successfully.com.mysql.cj.jdbc.ConnectionImpl@6b5966e1
+2022-11-25 12:08:46.471  INFO 1824 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2022-11-25 12:08:46.481  INFO 1824 --- [main] com.examples.empapp.EmpAppApplication    : Started EmpAppApplication in 2.279 seconds (JVM running for 2.694)
+2022-11-25 12:09:11.341  INFO 10832 --- [main] com.examples.empapp.EmpAppApplication    : Starting EmpAppApplication v0.0.1-SNAPSHOT using Java 19 on MILE-BL-4717-LAP with PID 10832 (C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist\emp-app-0.0.1-SNAPSHOT.jar started by Miles in C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist)
+2022-11-25 12:09:11.344 DEBUG 10832 --- [main] com.examples.empapp.EmpAppApplication    : Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-11-25 12:09:11.345  INFO 10832 --- [main] com.examples.empapp.EmpAppApplication    : The following 1 profile is active: "dev"
+2022-11-25 12:09:12.351  INFO 10832 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-11-25 12:09:12.362  INFO 10832 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-25 12:09:12.362  INFO 10832 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-25 12:09:12.429  INFO 10832 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-25 12:09:12.430  INFO 10832 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1029 ms
+2022-11-25 12:09:12.804  INFO 10832 --- [main] c.examples.empapp.config.EmployeeConfig  : Welcome, Connection created successfully.com.mysql.cj.jdbc.ConnectionImpl@27a5328c
+2022-11-25 12:09:13.154  INFO 10832 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-25 12:09:13.166  INFO 10832 --- [main] com.examples.empapp.EmpAppApplication    : Started EmpAppApplication in 2.318 seconds (JVM running for 2.719)
+2022-11-25 12:10:33.622  INFO 20148 --- [main] com.examples.empapp.EmpAppApplication    : Starting EmpAppApplication v0.0.1-SNAPSHOT using Java 19 on MILE-BL-4717-LAP with PID 20148 (C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist\emp-app-0.0.1-SNAPSHOT.jar started by Miles in C:\Users\Miles\OneDrive\Desktop\ff13_javafullstack\labs\sboot\sboot-labs\spring-rest-labs\emp-app\dist)
+2022-11-25 12:10:33.625 DEBUG 20148 --- [main] com.examples.empapp.EmpAppApplication    : Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-11-25 12:10:33.625  INFO 20148 --- [main] com.examples.empapp.EmpAppApplication    : The following 1 profile is active: "dev"
+2022-11-25 12:10:34.836  INFO 20148 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2022-11-25 12:10:34.849  INFO 20148 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-25 12:10:34.850  INFO 20148 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-25 12:10:34.926  INFO 20148 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-25 12:10:34.926  INFO 20148 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1227 ms
+2022-11-25 12:10:35.315  INFO 20148 --- [main] c.examples.empapp.config.EmployeeConfig  : Welcome, Connection created successfully.com.mysql.cj.jdbc.ConnectionImpl@2b62442c
+2022-11-25 12:10:35.700  INFO 20148 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2022-11-25 12:10:35.714  INFO 20148 --- [main] com.examples.empapp.EmpAppApplication    : Started EmpAppApplication in 2.658 seconds (JVM running for 3.09)
+2022-11-25 12:10:50.373  INFO 20148 --- [http-nio-9090-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-11-25 12:10:50.374  INFO 20148 --- [http-nio-9090-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-11-25 12:10:50.377  INFO 20148 --- [http-nio-9090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
